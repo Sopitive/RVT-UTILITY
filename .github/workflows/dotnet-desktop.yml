@@ -33,5 +33,5 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: RVT-UTILITY
-        path: RVT-UTILITY/bin/Release/net6.0-windows
+        path: bin/Release/net6.0-windows
         retention-days: 90
